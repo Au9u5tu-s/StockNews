@@ -322,4 +322,4 @@ plt.show()
 - **Module Leader**: Mr. Bente Riegler
 - **Institution**: University of Hertfordshire
 
-For information refer to the project report. 
+For more information refer to the project report. 
